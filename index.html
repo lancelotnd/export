@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Covox Pop</title>
+    <script src="https://unpkg.com/elm-pep"></script>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=fetch,requestAnimationFrame,Element.prototype.classList,URL,TextDecoder,Number.isInteger"></script>
+  </head>
+  <body>   
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="#">Covox Pop</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Flux de Tweets en temps réel</a>
+              </li>
+
+
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+              <input class="form-control mr-sm-2" type="search" placeholder="Rechercher" aria-label="Rechercher">
+              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Rechercher</button>
+            </form>
+          </div>
+        </nav>
+
+    <div class="two-col-sidebar">
+        <div class="side-menu">
+          <h2>Distribution géographique</h2>
+          <p>Répartition géographique de 1697 tweets collectés fentre le 1 mai 2021 et le 31 mai 2021.</p>
+          <div class="info-box code">A que l'emplacement géographiques de chacun des points est aléatoirement distribué à l'intérieur de la ville dans laquelle le tweet est réputé provenir. </div>
+          <h4>Requête effectuée</h4>
+          <div class="info-box code">  <code>covid place_country:CA lang:fr</code></div>
+  
+          <h4>Période</h4>
+          <div class="two-cols-std">
+              <div class="form-group">
+                  <label for="expiration">Date de début</label>
+                  <input type="date" class="form-control date" id="expiration">
+                  </select>
+              </div>
+              <div class="form-group">
+                  <label for="ccv">Date de fin</label>
+                  <input type="date" class="form-control" id="ccv">
+                  </select>
+              </div>
+          </div>
+
+          <h4>Résultats</h4>
+
+          <p>1697 tweets ont été trouvés correspondent à votre requête.</p>
+
+          <p>Entre le 1er mai 2021 et le 31 mai 2021.</p>
+                
+      <form>
+        <label for="radius">radius size</label>
+        <input id="radius" type="range" min="1" max="50" step="1" value="10" />
+        <label for="blur">blur size</label>
+        <input id="blur" type="range" min="1" max="50" step="1" value="15" />
+      </form>
+      
+
+        </div>
+        <div class="map" id="map"></div>
+    <div>
+      
+
+    <script src="main.js"></script>
+  </body>
+</html>

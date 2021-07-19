@@ -1,0 +1,4193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Méga-Plex Guzzo Terrebonne 14</name>
+            <Point id="2">
+                <coordinates>-73.64896775039799,45.710115247691675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="4">
+                <coordinates>-72.42827161393339,46.20828800846651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Québec, Canada</name>
+            <Point id="6">
+                <coordinates>-71.2773388132368,46.83175263290761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Québec, Canada</name>
+            <Point id="8">
+                <coordinates>-71.31104192991258,46.8238415495074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="10">
+                <coordinates>-74.20871329291073,45.87587788225973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Laval, Québec</name>
+            <Point id="12">
+                <coordinates>-73.67436981742405,45.661523799246964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Magog, Québec</name>
+            <Point id="14">
+                <coordinates>-72.05636381711209,45.21759986295888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="16">
+                <coordinates>-74.14165150679365,45.883294438515215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Edmonton, Alberta</name>
+            <Point id="18">
+                <coordinates>-113.55901604529426,53.566029990519155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Québec, Canada</name>
+            <Point id="20">
+                <coordinates>-71.40440996016301,46.78398022213698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Québec, Canada</name>
+            <Point id="22">
+                <coordinates>-71.4945815438989,46.7318039276198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Austin, Québec</name>
+            <Point id="24">
+                <coordinates>-72.29133965105771,45.234168057443426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Montréal, Québec</name>
+            <Point id="26">
+                <coordinates>-73.89205685232166,45.56299556196169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Montréal, Québec</name>
+            <Point id="28">
+                <coordinates>-73.61379839762387,45.60569661821768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Austin, Québec</name>
+            <Point id="30">
+                <coordinates>-72.2455632391012,45.28215247547952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Montréal, Québec</name>
+            <Point id="32">
+                <coordinates>-73.63764544468752,45.610407655808736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Chibougamau, Québec</name>
+            <Point id="34">
+                <coordinates>-74.25977876559011,49.828223719210605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Québec, Canada</name>
+            <Point id="36">
+                <coordinates>-71.44188883171988,46.76904764983108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Sainte-Aurélie, Québec</name>
+            <Point id="38">
+                <coordinates>-70.46282558675273,46.1310357553289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Mont-Royal, Québec</name>
+            <Point id="40">
+                <coordinates>-73.62547808730889,45.52250457284105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Montréal, Québec</name>
+            <Point id="42">
+                <coordinates>-73.68739438032596,45.43538124893073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Austin, Québec</name>
+            <Point id="44">
+                <coordinates>-72.23037419251577,45.18890834484188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="46">
+                <coordinates>-74.21084294084912,45.844241406942984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="48">
+                <coordinates>-74.24911081826352,45.91335891713014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Notre-Dame-de-Lourdes, Québec</name>
+            <Point id="50">
+                <coordinates>-73.400945678391,46.08109583428978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Austin, Québec</name>
+            <Point id="52">
+                <coordinates>-72.26310162710804,45.25698446117838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Baie-Comeau, Québec</name>
+            <Point id="54">
+                <coordinates>-68.02178900513968,49.04719644577859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Saint-Lambert, Québec</name>
+            <Point id="56">
+                <coordinates>-73.50322452389334,45.49197253494471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Québec, Canada</name>
+            <Point id="58">
+                <coordinates>-71.3036564577119,46.947604179489126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Tourville, Québec</name>
+            <Point id="60">
+                <coordinates>-69.89506387659499,47.1930869475115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Lévis, Québec</name>
+            <Point id="62">
+                <coordinates>-71.32949705767513,46.65782313999374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Montréal, Québec</name>
+            <Point id="64">
+                <coordinates>-73.4948526381715,45.62371547026313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Québec, Canada</name>
+            <Point id="66">
+                <coordinates>-71.38973398462025,46.74731428220657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Sainte-Marie-Madeleine, Québec</name>
+            <Point id="68">
+                <coordinates>-73.11257484259734,45.60751539398091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Laval, Québec</name>
+            <Point id="70">
+                <coordinates>-73.82562052999664,45.63257602718893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Victoriaville, Québec</name>
+            <Point id="72">
+                <coordinates>-71.95117780620413,46.03406156222372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Trois-Rivières, Québec</name>
+            <Point id="74">
+                <coordinates>-72.43770658477652,46.43890399953137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Québec, Canada</name>
+            <Point id="76">
+                <coordinates>-71.34016108536497,46.87755978761373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="78">
+                <coordinates>-97.03452960780422,49.756661083199816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Montréal, Québec</name>
+            <Point id="80">
+                <coordinates>-73.77624491709578,45.56727579917311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Montréal, Québec</name>
+            <Point id="82">
+                <coordinates>-73.96564369558916,45.58717544796497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Sainte-Agathe-des-Monts, Québec</name>
+            <Point id="84">
+                <coordinates>-74.38954273285835,46.02894296940275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="86">
+                <coordinates>-71.11246525387656,46.86179320401519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Montréal, Québec</name>
+            <Point id="88">
+                <coordinates>-73.48729216828706,45.5124196197672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="90">
+                <coordinates>-74.17336436729404,45.8494931932481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="92">
+                <coordinates>-74.14190775605242,45.841780196703986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Austin, Québec</name>
+            <Point id="94">
+                <coordinates>-72.27733370412778,45.285957359495846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Montréal, Québec</name>
+            <Point id="96">
+                <coordinates>-73.65941161396428,45.66004884504475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Montréal, Québec</name>
+            <Point id="98">
+                <coordinates>-73.89840218984003,45.531885271574765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Montréal, Québec</name>
+            <Point id="100">
+                <coordinates>-73.76421210241686,45.452651978431895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Magog, Québec</name>
+            <Point id="102">
+                <coordinates>-72.11386251872227,45.29048814224309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Sainte-Anne-des-Lacs, Québec</name>
+            <Point id="104">
+                <coordinates>-74.17681023768803,45.82554839176061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Québec, Canada</name>
+            <Point id="106">
+                <coordinates>-71.27785057428156,46.888455989015895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Sainte-Agathe-des-Monts, Québec</name>
+            <Point id="108">
+                <coordinates>-74.39480046207827,46.0606059977781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Austin, Québec</name>
+            <Point id="110">
+                <coordinates>-72.27572458260775,45.27099056457699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Val-d'Or, Québec</name>
+            <Point id="112">
+                <coordinates>-77.03346347852572,47.78504638391473,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Austin, Québec</name>
+            <Point id="114">
+                <coordinates>-72.28492179276252,45.303665191751826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Austin, Québec</name>
+            <Point id="116">
+                <coordinates>-72.25109903973572,45.16508073726893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Tourville, Québec</name>
+            <Point id="118">
+                <coordinates>-69.91605255663087,47.11153743065291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Magog, Québec</name>
+            <Point id="120">
+                <coordinates>-72.23401335830046,45.25701070899159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Laval, Québec</name>
+            <Point id="122">
+                <coordinates>-73.68752446922781,45.62860012574115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="124">
+                <coordinates>-74.23935638920621,45.92132333240323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Sept-Îles, Québec</name>
+            <Point id="126">
+                <coordinates>-65.80404472704137,49.73357167616461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Montréal, Québec</name>
+            <Point id="128">
+                <coordinates>-73.93008370305927,45.490854488778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Sainte-Agathe-des-Monts, Québec</name>
+            <Point id="130">
+                <coordinates>-74.35815264900994,46.016606347990525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Magog, Québec</name>
+            <Point id="132">
+                <coordinates>-72.08498444015427,45.18405585621906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="134">
+                <coordinates>-74.19362483915852,45.88514864795571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Québec, Canada</name>
+            <Point id="136">
+                <coordinates>-71.25044514003501,46.77526461225023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Montréal, Québec</name>
+            <Point id="138">
+                <coordinates>-73.82048783548724,45.656623070366386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Boucherville, Québec</name>
+            <Point id="140">
+                <coordinates>-73.41736275645776,45.55726166884665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Magog, Québec</name>
+            <Point id="142">
+                <coordinates>-72.10917767049575,45.167432697772945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Toronto, Ontario</name>
+            <Point id="144">
+                <coordinates>-79.60360337348415,43.52027531170876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Montréal, Québec</name>
+            <Point id="146">
+                <coordinates>-73.7579632556919,45.68527644303741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Montréal, Québec</name>
+            <Point id="148">
+                <coordinates>-73.94325336820977,45.48537090722694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="150">
+                <coordinates>-74.21581960826347,45.85898438893771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Austin, Québec</name>
+            <Point id="152">
+                <coordinates>-72.28421649962155,45.18370836610577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Montréal, Québec</name>
+            <Point id="154">
+                <coordinates>-73.57014788018353,45.62051959890601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Terrebonne, Québec</name>
+            <Point id="156">
+                <coordinates>-73.81032589758104,45.7436712020618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="158">
+                <coordinates>-74.14369276921123,45.87048639378113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Austin, Québec</name>
+            <Point id="160">
+                <coordinates>-72.23565709063008,45.22700361910035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Montréal, Québec</name>
+            <Point id="162">
+                <coordinates>-73.54010086048893,45.68081119063443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Austin, Québec</name>
+            <Point id="164">
+                <coordinates>-72.28228308694764,45.27087927798277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>Montréal, Québec</name>
+            <Point id="166">
+                <coordinates>-73.54780926053962,45.63629447429037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="168">
+                <coordinates>-74.20537876378236,45.880717015122535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Québec, Canada</name>
+            <Point id="170">
+                <coordinates>-71.35277295944417,46.8313550359752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Montréal, Québec</name>
+            <Point id="172">
+                <coordinates>-73.89520760128981,45.517685899158565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>Mont-Royal, Québec</name>
+            <Point id="174">
+                <coordinates>-73.65354647189474,45.495214437662476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Montréal, Québec</name>
+            <Point id="176">
+                <coordinates>-73.7776414894034,45.5214442115871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>Campbellton, Nouveau-Brunswick</name>
+            <Point id="178">
+                <coordinates>-66.62555294672809,48.01448924522355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>Laval, Québec</name>
+            <Point id="180">
+                <coordinates>-73.85333283858711,45.5909039719449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Gatineau, Québec</name>
+            <Point id="182">
+                <coordinates>-75.73276196409047,45.379486286942104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>Magog, Québec</name>
+            <Point id="184">
+                <coordinates>-72.19033030276972,45.26630216995681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>Mont-Royal, Québec</name>
+            <Point id="186">
+                <coordinates>-73.64522238862513,45.484729100444845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Canada</name>
+            <Point id="188">
+                <coordinates>-55.56304264394534,84.74005664898218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="190">
+                <coordinates>-74.16922424002526,45.85417021010493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Sainte-Julienne, Québec</name>
+            <Point id="192">
+                <coordinates>-73.65291690874503,46.003765973738474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Montréal, Québec</name>
+            <Point id="194">
+                <coordinates>-73.93524409134774,45.533356986761625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Sainte-Agathe-des-Monts, Québec</name>
+            <Point id="196">
+                <coordinates>-74.2920533424285,46.04489661956816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>Montréal, Québec</name>
+            <Point id="198">
+                <coordinates>-73.51340330503234,45.575067375012495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Montréal, Québec</name>
+            <Point id="200">
+                <coordinates>-73.82346275470216,45.627618519161054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Québec, Canada</name>
+            <Point id="202">
+                <coordinates>-71.4837856888845,46.775253970947425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>Austin, Québec</name>
+            <Point id="204">
+                <coordinates>-72.3026033609961,45.224562422190566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Montréal, Québec</name>
+            <Point id="206">
+                <coordinates>-73.6471228105205,45.6925879731983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>Mont-Royal, Québec</name>
+            <Point id="208">
+                <coordinates>-73.68419363521926,45.50940836826075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="210">
+                <coordinates>-72.45596929416129,46.23293859969781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Montréal, Québec</name>
+            <Point id="212">
+                <coordinates>-73.62229324060954,45.578000866188724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>Saint-Roch-de-Richelieu, Québec</name>
+            <Point id="214">
+                <coordinates>-73.1820336343952,45.88203386358365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>Saguenay, Québec</name>
+            <Point id="216">
+                <coordinates>-70.8603331992563,48.22846885867707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Gatineau, Québec</name>
+            <Point id="218">
+                <coordinates>-75.64716556107147,45.453282705926405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Mont-Royal, Québec</name>
+            <Point id="220">
+                <coordinates>-73.65669834217604,45.50328387690532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Montréal, Québec</name>
+            <Point id="222">
+                <coordinates>-73.67352164870921,45.5336407077036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Repentigny, Québec</name>
+            <Point id="224">
+                <coordinates>-73.42817009876275,45.791966090979464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="226">
+                <coordinates>-71.12302521157537,46.84559732562528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Sherbrooke, Québec</name>
+            <Point id="228">
+                <coordinates>-71.85500566399625,45.348376008186015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Gatineau, Québec</name>
+            <Point id="230">
+                <coordinates>-75.45160872509996,45.496346626941154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Mont-Royal, Québec</name>
+            <Point id="232">
+                <coordinates>-73.64967440979468,45.497735765416444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>Laval, Québec</name>
+            <Point id="234">
+                <coordinates>-73.73463040592111,45.578116955466896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Rimouski, Québec</name>
+            <Point id="236">
+                <coordinates>-68.40776984993562,48.41346873240641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>Montréal, Québec</name>
+            <Point id="238">
+                <coordinates>-73.95581466182657,45.43685908927996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="240">
+                <coordinates>-71.10520167100896,46.84751173062263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Donnacona, Québec</name>
+            <Point id="242">
+                <coordinates>-71.6523223913746,46.649307135992935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>East Angus, Québec</name>
+            <Point id="244">
+                <coordinates>-71.65581882973692,45.49040112558482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>Québec, Canada</name>
+            <Point id="246">
+                <coordinates>-71.18389939322994,46.7661623151531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Montréal, Québec</name>
+            <Point id="248">
+                <coordinates>-73.95871822179888,45.642161317102534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>Québec, Canada</name>
+            <Point id="250">
+                <coordinates>-71.19703464383102,46.92439597491198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Repentigny, Québec</name>
+            <Point id="252">
+                <coordinates>-73.43011927220434,45.77596091838503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Mont-Royal, Québec</name>
+            <Point id="254">
+                <coordinates>-73.68152572786165,45.483812449222924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>Montréal, Québec</name>
+            <Point id="256">
+                <coordinates>-73.60708649600556,45.5125656975694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>Montréal, Québec</name>
+            <Point id="258">
+                <coordinates>-73.84180979988903,45.684126249088436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Austin, Québec</name>
+            <Point id="260">
+                <coordinates>-72.23885932745031,45.18296407268161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>Montréal, Québec</name>
+            <Point id="262">
+                <coordinates>-73.479628975685,45.553129166231216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>Laval, Québec</name>
+            <Point id="264">
+                <coordinates>-73.74409058596403,45.56906410150075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>Montréal, Québec</name>
+            <Point id="266">
+                <coordinates>-73.50771590324679,45.66661944604399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Lévis, Québec</name>
+            <Point id="268">
+                <coordinates>-71.30896313354347,46.57342905825015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Saint-François, Nouveau-Brunswick</name>
+            <Point id="270">
+                <coordinates>-68.8545340251067,47.21860241609245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Dorval, Québec</name>
+            <Point id="272">
+                <coordinates>-73.7848523542023,45.44475213842857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Saguenay, Québec</name>
+            <Point id="274">
+                <coordinates>-71.5480894456732,48.504638894808004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>Laval, Québec</name>
+            <Point id="276">
+                <coordinates>-73.55657757376518,45.516895393141496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Mont-Royal, Québec</name>
+            <Point id="278">
+                <coordinates>-73.63537221223065,45.518558346366596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Québec, Canada</name>
+            <Point id="280">
+                <coordinates>-71.2529743829508,46.9003980861609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Montréal, Québec</name>
+            <Point id="282">
+                <coordinates>-73.83046912064286,45.50586532942736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Montréal, Québec</name>
+            <Point id="284">
+                <coordinates>-73.96846278179842,45.46134159887501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Terrebonne, Québec</name>
+            <Point id="286">
+                <coordinates>-73.52264519719297,45.68198474742841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="288">
+                <coordinates>-72.3787946487535,46.16029805121796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>East Angus, Québec</name>
+            <Point id="290">
+                <coordinates>-71.67241510066202,45.48136633475332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Saint-Hippolyte, Québec</name>
+            <Point id="292">
+                <coordinates>-74.05664118364382,45.895788984152325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Montréal, Québec</name>
+            <Point id="294">
+                <coordinates>-73.50397163804462,45.58894151179864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Montréal, Québec</name>
+            <Point id="296">
+                <coordinates>-73.60454639254525,45.494069767407495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Montréal, Québec</name>
+            <Point id="298">
+                <coordinates>-73.88127447193808,45.53643646997137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="300">
+                <coordinates>-74.15651619962196,45.871551353499285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="302">
+                <coordinates>-71.14477598129928,46.840301884854995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Québec, Canada</name>
+            <Point id="304">
+                <coordinates>-71.34126501679529,46.95865395334255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="306">
+                <coordinates>-71.10566200905842,46.858115244352405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Montréal, Québec</name>
+            <Point id="308">
+                <coordinates>-73.86708705072976,45.440991244837704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Montréal, Québec</name>
+            <Point id="310">
+                <coordinates>-73.55716657533384,45.54435678320594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Laval, Québec</name>
+            <Point id="312">
+                <coordinates>-73.5299194038554,45.5720072883093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Montréal, Québec</name>
+            <Point id="314">
+                <coordinates>-73.52345883742721,45.44491649618552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Montréal, Québec</name>
+            <Point id="316">
+                <coordinates>-73.65393659202532,45.690734360517716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Austin, Québec</name>
+            <Point id="318">
+                <coordinates>-72.24182463291214,45.17422632057648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Québec, Canada</name>
+            <Point id="320">
+                <coordinates>-71.39733399787521,46.76036028277607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Dorval, Québec</name>
+            <Point id="322">
+                <coordinates>-73.73750113206977,45.45282304723312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Québec, Canada</name>
+            <Point id="324">
+                <coordinates>-71.20009906447123,46.82942178704218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Sherbrooke, Québec</name>
+            <Point id="326">
+                <coordinates>-71.91072769178014,45.39183220478907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Québec, Canada</name>
+            <Point id="328">
+                <coordinates>-71.41733378237018,46.748003906602634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>Montréal, Québec</name>
+            <Point id="330">
+                <coordinates>-73.48592611351205,45.42030093220933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Terrebonne, Québec</name>
+            <Point id="332">
+                <coordinates>-73.52381403846819,45.74785423087633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Cantley, Québec</name>
+            <Point id="334">
+                <coordinates>-75.88588116260767,45.577230361555614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>Montréal, Québec</name>
+            <Point id="336">
+                <coordinates>-73.50793900336075,45.42173977823191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Terrebonne, Québec</name>
+            <Point id="338">
+                <coordinates>-73.77069103720989,45.70117604344111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Sainte-Luce, Québec</name>
+            <Point id="340">
+                <coordinates>-68.5717272102591,48.69407559670007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>Sherbrooke, Québec</name>
+            <Point id="342">
+                <coordinates>-72.05056013706422,45.31390645566861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Repentigny, Québec</name>
+            <Point id="344">
+                <coordinates>-73.3955903082528,45.77063438953232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>Gatineau, Québec</name>
+            <Point id="346">
+                <coordinates>-75.75567297697238,45.50922606785527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Montréal, Québec</name>
+            <Point id="348">
+                <coordinates>-73.85611797906017,45.4651702371332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Sherbrooke, Québec</name>
+            <Point id="350">
+                <coordinates>-72.0632168080963,45.38787699473342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>Austin, Québec</name>
+            <Point id="352">
+                <coordinates>-72.30004659383526,45.18463678204736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Sherbrooke, Québec</name>
+            <Point id="354">
+                <coordinates>-72.03411181603843,45.40173430960132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Montréal, Québec</name>
+            <Point id="356">
+                <coordinates>-73.5445823417421,45.438290239422905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Austin, Québec</name>
+            <Point id="358">
+                <coordinates>-72.29169570739083,45.296195349159134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Montréal, Québec</name>
+            <Point id="360">
+                <coordinates>-73.79119264339242,45.43088637753735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Montréal, Québec</name>
+            <Point id="362">
+                <coordinates>-73.49536187113019,45.531378303432824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="364">
+                <coordinates>-74.25106637785014,45.86098667771714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Boucherville, Québec</name>
+            <Point id="366">
+                <coordinates>-73.4214897277033,45.55084216922119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Brossard, Québec</name>
+            <Point id="368">
+                <coordinates>-73.45149730657013,45.47771989081183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Mont-Royal, Québec</name>
+            <Point id="370">
+                <coordinates>-73.68365546042246,45.499761988732025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="372">
+                <coordinates>-71.1180880625895,46.846252596819426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="374">
+                <coordinates>-97.30140705509324,49.932804571407026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>Montréal, Québec</name>
+            <Point id="376">
+                <coordinates>-73.57647630525989,45.435692149196484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Magog, Québec</name>
+            <Point id="378">
+                <coordinates>-72.21391279712829,45.29255246234637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Saguenay, Québec</name>
+            <Point id="380">
+                <coordinates>-71.3210262891829,48.33544958585709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>Montréal, Québec</name>
+            <Point id="382">
+                <coordinates>-73.6251403233795,45.51030103381407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Laval, Québec</name>
+            <Point id="384">
+                <coordinates>-73.88007946813147,45.64824948959605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Sherbrooke, Québec</name>
+            <Point id="386">
+                <coordinates>-71.83506356157741,45.42802233916757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>Terrebonne, Québec</name>
+            <Point id="388">
+                <coordinates>-73.59859175328418,45.75865065077406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>Montréal, Québec</name>
+            <Point id="390">
+                <coordinates>-73.83887983705047,45.678179417016736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>Laval, Québec</name>
+            <Point id="392">
+                <coordinates>-73.87921572515266,45.513274800702234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>Montréal, Québec</name>
+            <Point id="394">
+                <coordinates>-73.83862084652247,45.50239654649208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>Sherbrooke, Québec</name>
+            <Point id="396">
+                <coordinates>-71.85830477025097,45.464663163620486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>Montréal, Québec</name>
+            <Point id="398">
+                <coordinates>-73.74821529332999,45.61371081865048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>Québec, Canada</name>
+            <Point id="400">
+                <coordinates>-71.31414847510881,46.77713343885139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>Montréal, Québec</name>
+            <Point id="402">
+                <coordinates>-73.96085541606216,45.63164597957585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Montréal, Québec</name>
+            <Point id="404">
+                <coordinates>-73.77126469689775,45.47908245301557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>Cinéma Guzzo - Bureau Chef</name>
+            <Point id="406">
+                <coordinates>-73.64763025058161,45.708477867740626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Montréal, Québec</name>
+            <Point id="408">
+                <coordinates>-73.78878236384594,45.59576380645334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Wood Buffalo, Alberta</name>
+            <Point id="410">
+                <coordinates>-113.81131947764831,58.76137167890699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Montréal, Québec</name>
+            <Point id="412">
+                <coordinates>-73.80920326021247,45.439299241475496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>Montréal, Québec</name>
+            <Point id="414">
+                <coordinates>-73.74152614898364,45.69070081888789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="416">
+                <coordinates>-72.45649188976411,46.25461981358188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="418">
+                <coordinates>-72.36011267180717,46.21787885732982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>Montréal, Québec</name>
+            <Point id="420">
+                <coordinates>-73.4856052898103,45.595205174711246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Montréal, Québec</name>
+            <Point id="422">
+                <coordinates>-73.63918422258833,45.49661085243057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>Saint-Antonin, Québec</name>
+            <Point id="424">
+                <coordinates>-69.47287714083222,47.78601719363643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>Montréal, Québec</name>
+            <Point id="426">
+                <coordinates>-73.94143637700022,45.64113723007682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>Laval, Québec</name>
+            <Point id="428">
+                <coordinates>-73.82099645453343,45.626926243876746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>Ottawa, Ontario</name>
+            <Point id="430">
+                <coordinates>-75.3817379494517,45.281337962531985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Montréal, Québec</name>
+            <Point id="432">
+                <coordinates>-73.51467172353925,45.54726130360522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Saint-Georges, Québec</name>
+            <Point id="434">
+                <coordinates>-70.7270612549009,46.1633462959955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Saint-Ulric, Québec</name>
+            <Point id="436">
+                <coordinates>-67.6749781480501,49.01056694010996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>Cantley, Québec</name>
+            <Point id="438">
+                <coordinates>-75.83771091427737,45.53234173363711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="440">
+                <coordinates>-74.17394503337009,45.890814248038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>Ottawa, Ontario</name>
+            <Point id="442">
+                <coordinates>-76.16160631592413,45.223148034474406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>Cinéma Guzzo - Bureau Chef</name>
+            <Point id="444">
+                <coordinates>-73.64763025058161,45.708477867740626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>Lévis, Québec</name>
+            <Point id="446">
+                <coordinates>-71.30258844325779,46.60842461431286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>Montréal, Québec</name>
+            <Point id="448">
+                <coordinates>-73.71148709702668,45.43701082784562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>West Nipissing / Nipissing Ouest, Ontario</name>
+            <Point id="450">
+                <coordinates>-79.86732685187548,46.12477856723231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>Québec, Canada</name>
+            <Point id="452">
+                <coordinates>-71.27893467300899,46.93105264124616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>Montréal, Québec</name>
+            <Point id="454">
+                <coordinates>-73.8484354994171,45.5219694304218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>Montréal, Québec</name>
+            <Point id="456">
+                <coordinates>-73.64732130596086,45.46795478400964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>Boucherville, Québec</name>
+            <Point id="458">
+                <coordinates>-73.3685328363106,45.57237467040081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>Laval, Québec</name>
+            <Point id="460">
+                <coordinates>-73.55238654155124,45.66619939301754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>Montréal, Québec</name>
+            <Point id="462">
+                <coordinates>-73.78187575627997,45.53283280647706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Lévis, Québec</name>
+            <Point id="464">
+                <coordinates>-71.31659589109623,46.77153129652105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>Lévis, Québec</name>
+            <Point id="466">
+                <coordinates>-71.02256672622558,46.7134698708664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>Dorval, Québec</name>
+            <Point id="468">
+                <coordinates>-73.7849679332943,45.43553698800849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>Montréal, Québec</name>
+            <Point id="470">
+                <coordinates>-73.63353175114686,45.678487993669876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>Frelighsburg, Québec</name>
+            <Point id="472">
+                <coordinates>-72.90303107230064,45.02808329947584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>Toronto, Ontario</name>
+            <Point id="474">
+                <coordinates>-79.01973114924496,43.6900428109183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>Montréal, Québec</name>
+            <Point id="476">
+                <coordinates>-73.76394172833932,45.58349769452961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>Lévis, Québec</name>
+            <Point id="478">
+                <coordinates>-71.35837858764471,46.73837272046037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>Québec, Canada</name>
+            <Point id="480">
+                <coordinates>-71.52268687235392,46.90872531115382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>Montréal, Québec</name>
+            <Point id="482">
+                <coordinates>-73.9399774250202,45.59960939702838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>Montréal, Québec</name>
+            <Point id="484">
+                <coordinates>-73.60572683875169,45.56375108696124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>Amqui, Québec</name>
+            <Point id="486">
+                <coordinates>-67.34339445765953,48.51012683284448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>Varennes, Québec</name>
+            <Point id="488">
+                <coordinates>-73.3455807220246,45.70047830892451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>Cinéma Guzzo - Bureau Chef</name>
+            <Point id="490">
+                <coordinates>-73.64763025058161,45.708477867740626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>Montréal, Québec</name>
+            <Point id="492">
+                <coordinates>-73.9717111798246,45.58022837095408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>Québec, Canada</name>
+            <Point id="494">
+                <coordinates>-71.19076528909255,46.84778796240992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>Québec, Canada</name>
+            <Point id="496">
+                <coordinates>-71.38489568395613,46.94207384418777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>Saguenay, Québec</name>
+            <Point id="498">
+                <coordinates>-71.14373141943683,48.46606227168915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>Sorel-Tracy, Québec</name>
+            <Point id="500">
+                <coordinates>-73.01678908624696,45.983748810807676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>Edmonton, Alberta</name>
+            <Point id="502">
+                <coordinates>-113.69903156752072,53.70964238381398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>Québec, Canada</name>
+            <Point id="504">
+                <coordinates>-71.48523887193018,46.74015029861592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>Montréal, Québec</name>
+            <Point id="506">
+                <coordinates>-73.85854026991647,45.50926367315935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="508">
+                <coordinates>-97.31184284525428,49.93414665156657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>Montréal, Québec</name>
+            <Point id="510">
+                <coordinates>-73.56672243417451,45.66912283269018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>Montréal, Québec</name>
+            <Point id="512">
+                <coordinates>-73.49634621805227,45.668868130431385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>Montréal, Québec</name>
+            <Point id="514">
+                <coordinates>-73.79642427851398,45.69358841958506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>Montréal, Québec</name>
+            <Point id="516">
+                <coordinates>-73.88716191547088,45.61195711820938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>Montréal, Québec</name>
+            <Point id="518">
+                <coordinates>-73.51842255589328,45.55018404599893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>Montréal, Québec</name>
+            <Point id="520">
+                <coordinates>-73.57924214870422,45.5919812715829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="522">
+                <coordinates>-72.33270183616516,46.17158013955848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>Montréal, Québec</name>
+            <Point id="524">
+                <coordinates>-73.95764457437676,45.413402197101384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>Shawinigan, Québec</name>
+            <Point id="526">
+                <coordinates>-72.88719957901748,46.646461644343695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>Sainte-Adèle, Québec</name>
+            <Point id="528">
+                <coordinates>-74.181052165318,46.01937997077162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="530">
+                <coordinates>-71.10887965005057,46.85825935987048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>Québec, Canada</name>
+            <Point id="532">
+                <coordinates>-71.43767625178678,46.876410355562825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>Montréal, Québec</name>
+            <Point id="534">
+                <coordinates>-73.49151384654525,45.64804847175946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>Saint-Hyacinthe, Québec</name>
+            <Point id="536">
+                <coordinates>-72.99008541984247,45.7168504655862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="538">
+                <coordinates>-97.22557796795664,49.93293440219588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>Montréal, Québec</name>
+            <Point id="540">
+                <coordinates>-73.96554544701148,45.41286602601176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>Jasper, Alberta</name>
+            <Point id="542">
+                <coordinates>-118.5501114188405,52.818157531384536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>Sainte-Marie, Québec</name>
+            <Point id="544">
+                <coordinates>-70.93475778083412,46.377332753028334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>Montréal, Québec</name>
+            <Point id="546">
+                <coordinates>-73.93989011260118,45.45067819924105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>Montréal, Québec</name>
+            <Point id="548">
+                <coordinates>-73.75725448422055,45.52652349775063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>Montréal, Québec</name>
+            <Point id="550">
+                <coordinates>-73.81293847412817,45.42764370745869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>Montréal, Québec</name>
+            <Point id="552">
+                <coordinates>-73.58400549773815,45.51756065493707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>Montréal, Québec</name>
+            <Point id="554">
+                <coordinates>-73.8175581223807,45.69928293890756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>Ottawa, Ontario</name>
+            <Point id="556">
+                <coordinates>-75.58759642287842,45.19518364832606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>Sainte-Julienne, Québec</name>
+            <Point id="558">
+                <coordinates>-73.77561698987124,45.92320297337143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>Lévis, Québec</name>
+            <Point id="560">
+                <coordinates>-71.1596707596769,46.6605654546253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>Baie-Comeau, Québec</name>
+            <Point id="562">
+                <coordinates>-68.44158662030792,49.283664412256016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>Chelsea, Québec</name>
+            <Point id="564">
+                <coordinates>-75.88496069867149,45.551650755213856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>Lévis, Québec</name>
+            <Point id="566">
+                <coordinates>-71.32805448370844,46.710718094485465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>Longueuil, Québec</name>
+            <Point id="568">
+                <coordinates>-73.44986158522275,45.49718841550024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="570">
+                <coordinates>-72.40572352945954,46.247505542402486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>Montréal, Québec</name>
+            <Point id="572">
+                <coordinates>-73.86458531228482,45.42563126604682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>Toronto, Ontario</name>
+            <Point id="574">
+                <coordinates>-79.45183706356411,43.63535155845778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>Toronto, Ontario</name>
+            <Point id="576">
+                <coordinates>-79.46079633116851,43.653629832592735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>Montréal, Québec</name>
+            <Point id="578">
+                <coordinates>-73.583060399927,45.50575801231309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>Québec, Canada</name>
+            <Point id="580">
+                <coordinates>-71.54124835993801,46.95652114978946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>Granby, Québec</name>
+            <Point id="582">
+                <coordinates>-72.78915933072582,45.370694691010584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>Lévis, Québec</name>
+            <Point id="584">
+                <coordinates>-71.35753145507525,46.81853120588978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>Montréal, Québec</name>
+            <Point id="586">
+                <coordinates>-73.73082680363908,45.47260189738797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>Québec, Canada</name>
+            <Point id="588">
+                <coordinates>-71.43681741740357,46.9275316837364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>Montréal, Québec</name>
+            <Point id="590">
+                <coordinates>-73.87669783157857,45.651764934963474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>Montréal, Québec</name>
+            <Point id="592">
+                <coordinates>-73.59554790318394,45.63781745311057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>Lévis, Québec</name>
+            <Point id="594">
+                <coordinates>-71.50267883946972,46.80024916052417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>Montréal, Québec</name>
+            <Point id="596">
+                <coordinates>-73.63588411834218,45.63613412311665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>Austin, Québec</name>
+            <Point id="598">
+                <coordinates>-72.24805566834989,45.24110638269343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>Montréal, Québec</name>
+            <Point id="600">
+                <coordinates>-73.7734710757177,45.45343922724352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>Lévis, Québec</name>
+            <Point id="602">
+                <coordinates>-71.13379175993038,46.592342514966546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>Austin, Québec</name>
+            <Point id="604">
+                <coordinates>-72.22845808045689,45.25673278617428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>Boisbriand, Québec</name>
+            <Point id="606">
+                <coordinates>-73.88035493668234,45.580959080588535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>Saguenay, Québec</name>
+            <Point id="608">
+                <coordinates>-71.3158093789963,48.387667095809164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>Magog, Québec</name>
+            <Point id="610">
+                <coordinates>-72.21378381901384,45.267434872393444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="612">
+                <coordinates>-71.07818256614708,46.86698500117485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>Saguenay, Québec</name>
+            <Point id="614">
+                <coordinates>-70.8135180286789,48.281911887977635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>Laval, Québec</name>
+            <Point id="616">
+                <coordinates>-73.76903429921518,45.564067469625016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>Laval, Québec</name>
+            <Point id="618">
+                <coordinates>-73.73637575571448,45.67503684303597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>Montréal, Québec</name>
+            <Point id="620">
+                <coordinates>-73.64109498036383,45.454789484728835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="622">
+                <coordinates>-71.0922060135142,46.84486893509606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>Rimouski, Québec</name>
+            <Point id="624">
+                <coordinates>-68.7701924162087,48.46646418634132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>Laval, Québec</name>
+            <Point id="626">
+                <coordinates>-73.67993059229208,45.683613968779724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="628">
+                <coordinates>-74.26089887458124,45.88117347093404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>Ottawa, Ontario</name>
+            <Point id="630">
+                <coordinates>-75.884990625251,45.17478837557069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>Montréal, Québec</name>
+            <Point id="632">
+                <coordinates>-73.84458433594932,45.55839448594105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>Montréal, Québec</name>
+            <Point id="634">
+                <coordinates>-73.69749874733165,45.59281854901243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>Québec, Canada</name>
+            <Point id="636">
+                <coordinates>-71.246602235447,46.80089556762578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>Mascouche, Québec</name>
+            <Point id="638">
+                <coordinates>-73.61585350997211,45.771115563753995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="640">
+                <coordinates>-74.19290343662988,45.8651476853201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>Austin, Québec</name>
+            <Point id="642">
+                <coordinates>-72.29306244640527,45.19577505334453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>Québec, Canada</name>
+            <Point id="644">
+                <coordinates>-71.48197252681283,46.82820667209753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>Mont-Royal, Québec</name>
+            <Point id="646">
+                <coordinates>-73.68471839294189,45.497176019599436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>Ottawa, Ontario</name>
+            <Point id="648">
+                <coordinates>-75.53691730680745,45.166963816841964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>Québec, Canada</name>
+            <Point id="650">
+                <coordinates>-71.51020138933193,46.80748854102175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>Québec, Canada</name>
+            <Point id="652">
+                <coordinates>-71.26145423896897,46.97847704808971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>Saint-Charles-Borromée, Québec</name>
+            <Point id="654">
+                <coordinates>-73.48030099900136,46.07105683694765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>Austin, Québec</name>
+            <Point id="656">
+                <coordinates>-72.28604450728687,45.18802138843136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>Québec, Canada</name>
+            <Point id="658">
+                <coordinates>-71.43033588082152,46.96066284929034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>Québec, Canada</name>
+            <Point id="660">
+                <coordinates>-71.22932731278206,46.85478362992651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>Laval, Québec</name>
+            <Point id="662">
+                <coordinates>-73.85509321193908,45.644139420678044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>Québec, Canada</name>
+            <Point id="664">
+                <coordinates>-71.45220460600532,46.74950821674049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>Saint-Jean-de-l'Île-d'Orléans, Québec</name>
+            <Point id="666">
+                <coordinates>-70.86860591112172,46.95779397874798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>Québec, Canada</name>
+            <Point id="668">
+                <coordinates>-71.53443682648465,46.79916834184885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>Mont-Royal, Québec</name>
+            <Point id="670">
+                <coordinates>-73.65307618911254,45.5214310750663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>Laval, Québec</name>
+            <Point id="672">
+                <coordinates>-73.82225713013324,45.593917141416554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>La Prairie, Québec</name>
+            <Point id="674">
+                <coordinates>-73.39696341729271,45.39108460214523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>Montréal, Québec</name>
+            <Point id="676">
+                <coordinates>-73.78751884517882,45.600405883125546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>Montréal, Québec</name>
+            <Point id="678">
+                <coordinates>-73.78702654642812,45.612347848049254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="680">
+                <coordinates>-71.12430392931003,46.840089527037115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>Sherbrooke, Québec</name>
+            <Point id="682">
+                <coordinates>-71.85775363479038,45.44009982876997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>Chambly, Québec</name>
+            <Point id="684">
+                <coordinates>-73.31362568652769,45.462033071252506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>Kirkland, Québec</name>
+            <Point id="686">
+                <coordinates>-73.85130242807381,45.44517997031768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>Mont-Royal, Québec</name>
+            <Point id="688">
+                <coordinates>-73.67119415159914,45.52976485687914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="690">
+                <coordinates>-74.21498357528506,45.87471481801377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>Toronto, Ontario</name>
+            <Point id="692">
+                <coordinates>-79.26894234296142,43.49596913367935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>Laval, Québec</name>
+            <Point id="694">
+                <coordinates>-73.71041426063024,45.60060163849663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>Montréal, Québec</name>
+            <Point id="696">
+                <coordinates>-73.50064665333839,45.695152559975156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>Montréal, Québec</name>
+            <Point id="698">
+                <coordinates>-73.62475617318665,45.45620872958218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>Québec, Canada</name>
+            <Point id="700">
+                <coordinates>-71.35873687607253,46.95738383679534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>Austin, Québec</name>
+            <Point id="702">
+                <coordinates>-72.2389742394356,45.254954944153575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>Austin, Québec</name>
+            <Point id="704">
+                <coordinates>-72.25798667953822,45.202726094177166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>Toronto, Ontario</name>
+            <Point id="706">
+                <coordinates>-79.57538069733104,43.43444954165988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>Shawinigan, Québec</name>
+            <Point id="708">
+                <coordinates>-72.59797297459082,46.809202253073856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>East Angus, Québec</name>
+            <Point id="710">
+                <coordinates>-71.66740402889621,45.48962808877733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>Saint-Eustache, Québec</name>
+            <Point id="712">
+                <coordinates>-73.91062528722222,45.55126011577424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>Austin, Québec</name>
+            <Point id="714">
+                <coordinates>-72.22630919016265,45.17502575539476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>Moncton, Nouveau-Brunswick</name>
+            <Point id="716">
+                <coordinates>-64.82193600157164,46.05541348862711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="718">
+                <coordinates>-74.17887534518242,45.92117970702654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>Québec, Canada</name>
+            <Point id="720">
+                <coordinates>-71.48805054485875,46.85384092932977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>Côte-Saint-Luc, Québec</name>
+            <Point id="722">
+                <coordinates>-73.63459487061398,45.490489242033455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>Brossard, Québec</name>
+            <Point id="724">
+                <coordinates>-73.47565961550423,45.4353919546509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>Montréal, Québec</name>
+            <Point id="726">
+                <coordinates>-73.73107191274411,45.47107154278634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>Montréal, Québec</name>
+            <Point id="728">
+                <coordinates>-73.60334351099233,45.49244362023507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="730">
+                <coordinates>-71.11516608262671,46.855587180455935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>Montréal, Québec</name>
+            <Point id="732">
+                <coordinates>-73.839612120039,45.421340487114506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>Waterloo, Québec</name>
+            <Point id="734">
+                <coordinates>-72.54263259281115,45.35606125813409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>La Prairie, Québec</name>
+            <Point id="736">
+                <coordinates>-73.38855913384376,45.432360478827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>Austin, Québec</name>
+            <Point id="738">
+                <coordinates>-72.28608738870982,45.27988683499217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>Laval, Québec</name>
+            <Point id="740">
+                <coordinates>-73.57604108944332,45.6877010310886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="742">
+                <coordinates>-74.24891201650965,45.90981334827058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>East Angus, Québec</name>
+            <Point id="744">
+                <coordinates>-71.66378777748099,45.470401537925305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>Sainte-Aurélie, Québec</name>
+            <Point id="746">
+                <coordinates>-70.40059026366035,46.18073733790957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>Gatineau, Québec</name>
+            <Point id="748">
+                <coordinates>-75.4176844934659,45.42826077058293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="750">
+                <coordinates>-96.96228647654459,49.76158213518437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>East Angus, Québec</name>
+            <Point id="752">
+                <coordinates>-71.65356709517131,45.49296648396235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>Saint-Gédéon, Québec</name>
+            <Point id="754">
+                <coordinates>-71.74045123545078,48.55492471495233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>Québec, Canada</name>
+            <Point id="756">
+                <coordinates>-71.2055789215534,46.96051751304389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>Magog, Québec</name>
+            <Point id="758">
+                <coordinates>-72.22214454682708,45.270371231106736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>Baie-Comeau, Québec</name>
+            <Point id="760">
+                <coordinates>-68.32144269468186,49.20577064687172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="762">
+                <coordinates>-97.12726667921919,49.95904485051062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>Austin, Québec</name>
+            <Point id="764">
+                <coordinates>-72.23311790292783,45.23848095442316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>Montréal, Québec</name>
+            <Point id="766">
+                <coordinates>-73.94656250057018,45.44063975067447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="768">
+                <coordinates>-71.09985713387374,46.855783507614994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>Sainte-Anne-du-Sault, Québec</name>
+            <Point id="770">
+                <coordinates>-72.1084063621496,46.130224839517005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>Terrebonne, Québec</name>
+            <Point id="772">
+                <coordinates>-73.65327163188881,45.754655263095316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>Austin, Québec</name>
+            <Point id="774">
+                <coordinates>-72.28543554767083,45.26875792063739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="776">
+                <coordinates>-74.21240094240441,45.8902230906609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>Shawinigan, Québec</name>
+            <Point id="778">
+                <coordinates>-73.10838028708437,46.63190280158565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>Sainte-Julienne, Québec</name>
+            <Point id="780">
+                <coordinates>-73.68330189271059,46.006667634463334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>Edmundston, Nouveau-Brunswick</name>
+            <Point id="782">
+                <coordinates>-68.44041108576114,47.34780555652904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>Mont-Royal, Québec</name>
+            <Point id="784">
+                <coordinates>-73.6359837684759,45.51431590786292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>Sainte-Julienne, Québec</name>
+            <Point id="786">
+                <coordinates>-73.81303348772158,45.904016429917775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>Montréal, Québec</name>
+            <Point id="788">
+                <coordinates>-73.69818444087599,45.67659263704583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>Québec, Canada</name>
+            <Point id="790">
+                <coordinates>-71.49321522750874,46.77792447042996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>Québec, Canada</name>
+            <Point id="792">
+                <coordinates>-71.51366804567661,46.90481716357487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>Montréal, Québec</name>
+            <Point id="794">
+                <coordinates>-73.87908242040149,45.480843035505856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>Montréal, Québec</name>
+            <Point id="796">
+                <coordinates>-73.51330956405027,45.65954810727903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>Lévis, Québec</name>
+            <Point id="798">
+                <coordinates>-71.00185949949007,46.682185077546016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>Lévis, Québec</name>
+            <Point id="800">
+                <coordinates>-71.09597748820843,46.79879776064749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>Alma, Québec</name>
+            <Point id="802">
+                <coordinates>-71.79564315603015,48.68208292218197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>Québec, Canada</name>
+            <Point id="804">
+                <coordinates>-71.16055164901346,46.795287676884115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>Austin, Québec</name>
+            <Point id="806">
+                <coordinates>-72.26026374391778,45.22493776062557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="808">
+                <coordinates>-97.21681346635035,49.91868376020141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>Austin, Québec</name>
+            <Point id="810">
+                <coordinates>-72.20502035591643,45.17674546970026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>Québec, Canada</name>
+            <Point id="812">
+                <coordinates>-71.3094398052295,46.83886219449284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>Montréal, Québec</name>
+            <Point id="814">
+                <coordinates>-73.54913197727903,45.55892763883711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>La Prairie, Québec</name>
+            <Point id="816">
+                <coordinates>-73.51627941565559,45.408959412759586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>Québec, Canada</name>
+            <Point id="818">
+                <coordinates>-71.49823162559849,46.75636914549276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>Québec, Canada</name>
+            <Point id="820">
+                <coordinates>-71.46178619590604,46.92731540567184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>Hamilton, Ontario</name>
+            <Point id="822">
+                <coordinates>-79.94548420677631,43.14103856797049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>Austin, Québec</name>
+            <Point id="824">
+                <coordinates>-72.20725269888932,45.19004452145213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>Lévis, Québec</name>
+            <Point id="826">
+                <coordinates>-71.49624428245782,46.79522634907221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>Austin, Québec</name>
+            <Point id="828">
+                <coordinates>-72.2142867475032,45.25976111788024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>Montréal, Québec</name>
+            <Point id="830">
+                <coordinates>-73.92777120217994,45.64503739026009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>Saint-François, Nouveau-Brunswick</name>
+            <Point id="832">
+                <coordinates>-68.87189614537827,47.215164290433016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>St. Albert, Alberta</name>
+            <Point id="834">
+                <coordinates>-113.57219000340831,53.6720289388489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>Austin, Québec</name>
+            <Point id="836">
+                <coordinates>-72.23652639534322,45.2157407798052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="839">
+            <name>Gatineau, Québec</name>
+            <Point id="838">
+                <coordinates>-75.54887947419387,45.504523979234314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="841">
+            <name>Lévis, Québec</name>
+            <Point id="840">
+                <coordinates>-71.21512486186954,46.79651362801493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>Québec, Canada</name>
+            <Point id="842">
+                <coordinates>-71.29876114337556,46.88666037511072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <name>Austin, Québec</name>
+            <Point id="844">
+                <coordinates>-72.27131113419848,45.18752938353829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="847">
+            <name>Bathurst, Nouveau-Brunswick</name>
+            <Point id="846">
+                <coordinates>-65.59729997983241,47.594218099676056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>Ottawa, Ontario</name>
+            <Point id="848">
+                <coordinates>-75.54356911727851,44.96605332450468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="851">
+            <name>Montréal, Québec</name>
+            <Point id="850">
+                <coordinates>-73.8641488630644,45.68832713854837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="853">
+            <name>Austin, Québec</name>
+            <Point id="852">
+                <coordinates>-72.2212832247201,45.292187123037344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>Magog, Québec</name>
+            <Point id="854">
+                <coordinates>-72.04375283844966,45.251038048995795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="857">
+            <name>Montréal, Québec</name>
+            <Point id="856">
+                <coordinates>-73.91542741509899,45.594173841415945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="859">
+            <name>Mont-Royal, Québec</name>
+            <Point id="858">
+                <coordinates>-73.65604559334857,45.48439529002403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>Saint-Jérôme, Québec</name>
+            <Point id="860">
+                <coordinates>-74.10045498667748,45.762234235448155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>L'Ange-Gardien, Québec</name>
+            <Point id="862">
+                <coordinates>-75.41609259767756,45.5852537436334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <name>Montréal, Québec</name>
+            <Point id="864">
+                <coordinates>-73.84087013689994,45.4561372334186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>Québec, Canada</name>
+            <Point id="866">
+                <coordinates>-71.13563688438943,46.90164012314838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="869">
+            <name>Gatineau, Québec</name>
+            <Point id="868">
+                <coordinates>-75.66695079515692,45.5896955675421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="871">
+            <name>Rimouski, Québec</name>
+            <Point id="870">
+                <coordinates>-68.64446609413538,48.58966515280451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>Sainte-Luce, Québec</name>
+            <Point id="872">
+                <coordinates>-68.29569428597561,48.68422543501373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <name>Québec, Canada</name>
+            <Point id="874">
+                <coordinates>-71.25503793004088,46.787084462863305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <name>Québec, Canada</name>
+            <Point id="876">
+                <coordinates>-71.24621295643169,46.81641809099322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>Gatineau, Québec</name>
+            <Point id="878">
+                <coordinates>-75.53733114179323,45.48157043511518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="881">
+            <name>Laval, Québec</name>
+            <Point id="880">
+                <coordinates>-73.5275143593755,45.52404064197715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="883">
+            <name>Laval, Québec</name>
+            <Point id="882">
+                <coordinates>-73.56050895636676,45.610110633579865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>Laval, Québec</name>
+            <Point id="884">
+                <coordinates>-73.58650390180532,45.54199841412135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="887">
+            <name>Québec, Canada</name>
+            <Point id="886">
+                <coordinates>-71.45182267309353,46.85110255665233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="889">
+            <name>Montréal, Québec</name>
+            <Point id="888">
+                <coordinates>-73.78168840965408,45.61039856707664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="890">
+                <coordinates>-72.45048373430711,46.160269886969516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="893">
+            <name>Montréal, Québec</name>
+            <Point id="892">
+                <coordinates>-73.84204065285151,45.48330233878261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="895">
+            <name>Montréal, Québec</name>
+            <Point id="894">
+                <coordinates>-73.62744289944419,45.66424584640249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>Québec, Canada</name>
+            <Point id="896">
+                <coordinates>-71.20796086688533,46.869845717136634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="899">
+            <name>Notre-Dame-de-la-Merci, Québec</name>
+            <Point id="898">
+                <coordinates>-74.14608030747081,46.185502221903626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="901">
+            <name>Morin-Heights, Québec</name>
+            <Point id="900">
+                <coordinates>-74.28979167249352,45.93060862583845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>Montréal, Québec</name>
+            <Point id="902">
+                <coordinates>-73.87974417614018,45.454606685498064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="905">
+            <name>Austin, Québec</name>
+            <Point id="904">
+                <coordinates>-72.3048465899828,45.17402777738606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <name>Saint-Adolphe-d'Howard, Québec</name>
+            <Point id="906">
+                <coordinates>-74.43204890824998,45.966700024561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>Longueuil, Québec</name>
+            <Point id="908">
+                <coordinates>-73.4509395306073,45.50187741798723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="911">
+            <name>Saint-Ulric, Québec</name>
+            <Point id="910">
+                <coordinates>-67.96250059295309,48.80770812780531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="913">
+            <name>Montréal, Québec</name>
+            <Point id="912">
+                <coordinates>-73.88463440038674,45.502401509712236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>Val-des-Monts, Québec</name>
+            <Point id="914">
+                <coordinates>-75.74863268242609,45.688394162694145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="917">
+            <name>Montréal, Québec</name>
+            <Point id="916">
+                <coordinates>-73.66306465389961,45.50033714890944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="919">
+            <name>Cinéma Guzzo - Bureau Chef</name>
+            <Point id="918">
+                <coordinates>-73.64763025058161,45.708477867740626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>Austin, Québec</name>
+            <Point id="920">
+                <coordinates>-72.22801574568065,45.288609063236954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="923">
+            <name>Laval, Québec</name>
+            <Point id="922">
+                <coordinates>-73.55343841933917,45.546607199698705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="925">
+            <name>Montréal, Québec</name>
+            <Point id="924">
+                <coordinates>-73.96337538206535,45.65002655273688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="926">
+                <coordinates>-72.40506178782715,46.19184662944307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="929">
+            <name>Magog, Québec</name>
+            <Point id="928">
+                <coordinates>-72.09091395472457,45.18841349658214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="931">
+            <name>Montréal, Québec</name>
+            <Point id="930">
+                <coordinates>-73.74643527218807,45.69332694826897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>Québec, Canada</name>
+            <Point id="932">
+                <coordinates>-71.37913803931643,46.94010837528686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="935">
+            <name>Austin, Québec</name>
+            <Point id="934">
+                <coordinates>-72.2179189500832,45.27859256866047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="937">
+            <name>Montréal, Québec</name>
+            <Point id="936">
+                <coordinates>-73.655690090164,45.65905309834952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>Montréal, Québec</name>
+            <Point id="938">
+                <coordinates>-73.50595052124368,45.692079480340915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="941">
+            <name>Montréal, Québec</name>
+            <Point id="940">
+                <coordinates>-73.68469788563567,45.648725042910165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="943">
+            <name>Méga-Plex Guzzo Terrebonne 14</name>
+            <Point id="942">
+                <coordinates>-73.64896775039799,45.710115247691675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>Saint-Adolphe-d'Howard, Québec</name>
+            <Point id="944">
+                <coordinates>-74.30990903648951,45.89462521636307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="947">
+            <name>Alma, Québec</name>
+            <Point id="946">
+                <coordinates>-71.69909813704446,48.56292185341214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="949">
+            <name>Saint-Augustin-de-Desmaures, Québec</name>
+            <Point id="948">
+                <coordinates>-71.36779555804259,46.745909842367766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>Lévis, Québec</name>
+            <Point id="950">
+                <coordinates>-71.38477196262834,46.75410853245358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="953">
+            <name>Montréal, Québec</name>
+            <Point id="952">
+                <coordinates>-73.79731329565347,45.65297583355713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="955">
+            <name>Alma, Québec</name>
+            <Point id="954">
+                <coordinates>-71.77371681138146,48.667504922358944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>Lévis, Québec</name>
+            <Point id="956">
+                <coordinates>-71.27994663495606,46.612229209863145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="959">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="958">
+                <coordinates>-97.22861908010235,49.84918492702028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="961">
+            <name>Lévis, Québec</name>
+            <Point id="960">
+                <coordinates>-71.11862893498727,46.74978887721896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>Lachute, Québec</name>
+            <Point id="962">
+                <coordinates>-74.20803860468222,45.66889791522959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="965">
+            <name>Austin, Québec</name>
+            <Point id="964">
+                <coordinates>-72.27271399072589,45.163355180085716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="967">
+            <name>Austin, Québec</name>
+            <Point id="966">
+                <coordinates>-72.29921342371539,45.231060390547086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>Sainte-Agathe-des-Monts, Québec</name>
+            <Point id="968">
+                <coordinates>-74.35572171810867,46.092383180647616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <name>Montréal, Québec</name>
+            <Point id="970">
+                <coordinates>-73.84179185575398,45.62751879769252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="973">
+            <name>Laval, Québec</name>
+            <Point id="972">
+                <coordinates>-73.62727675599574,45.63767146863349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>Mirabel, Québec</name>
+            <Point id="974">
+                <coordinates>-73.93164397454528,45.635558756059304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="977">
+            <name>Montréal, Québec</name>
+            <Point id="976">
+                <coordinates>-73.51347465213316,45.62090693902865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="979">
+            <name>Kitchener, Ontario</name>
+            <Point id="978">
+                <coordinates>-80.5170563675855,43.49501496272691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>Austin, Québec</name>
+            <Point id="980">
+                <coordinates>-72.2523260196873,45.196208676550164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="983">
+            <name>Neuville, Québec</name>
+            <Point id="982">
+                <coordinates>-71.56970802500805,46.67248277534067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="985">
+            <name>Québec, Canada</name>
+            <Point id="984">
+                <coordinates>-71.3425358017637,46.78463105509446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>Austin, Québec</name>
+            <Point id="986">
+                <coordinates>-72.21246815157794,45.171226501217646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="988">
+                <coordinates>-97.3186730329713,49.92264283118927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>Sherbrooke, Québec</name>
+            <Point id="990">
+                <coordinates>-71.9215682092997,45.50751926964328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>Mont-Royal, Québec</name>
+            <Point id="992">
+                <coordinates>-73.66132884003994,45.517638553642136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>Montréal, Québec</name>
+            <Point id="994">
+                <coordinates>-73.95013922046616,45.501393292146695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>Laval, Québec</name>
+            <Point id="996">
+                <coordinates>-73.70755801847021,45.550240481152905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>Canada</name>
+            <Point id="998">
+                <coordinates>-128.15398143171362,71.09114676417208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>Ottawa, Ontario</name>
+            <Point id="1000">
+                <coordinates>-75.4847020508657,45.167042384327694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>Québec, Canada</name>
+            <Point id="1002">
+                <coordinates>-71.5340315614771,46.850038558745055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>Montréal, Québec</name>
+            <Point id="1004">
+                <coordinates>-73.84258859552023,45.47016428786335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1007">
+            <name>Montréal, Québec</name>
+            <Point id="1006">
+                <coordinates>-73.75814215801195,45.56982482328684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>Longueuil, Québec</name>
+            <Point id="1008">
+                <coordinates>-73.47957865487659,45.555327675321564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>Montréal, Québec</name>
+            <Point id="1010">
+                <coordinates>-73.62621151380031,45.467709136700094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>Montréal, Québec</name>
+            <Point id="1012">
+                <coordinates>-73.67872421163968,45.5855677642353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>Sainte-Luce, Québec</name>
+            <Point id="1014">
+                <coordinates>-68.3621033952991,48.697602333938214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>Montréal, Québec</name>
+            <Point id="1016">
+                <coordinates>-73.96310750901469,45.6779089098669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>Austin, Québec</name>
+            <Point id="1018">
+                <coordinates>-72.23425781632923,45.203298859405955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>Montréal, Québec</name>
+            <Point id="1020">
+                <coordinates>-73.49649263026835,45.620786190671346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1022">
+                <coordinates>-74.17166347614426,45.91453771764709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="1024">
+                <coordinates>-97.23862827453961,49.93675746584228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>Austin, Québec</name>
+            <Point id="1026">
+                <coordinates>-72.27483480204316,45.203060926857226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>Montréal, Québec</name>
+            <Point id="1028">
+                <coordinates>-73.69395601110988,45.5457816487501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <name>Montréal, Québec</name>
+            <Point id="1030">
+                <coordinates>-73.56756694914309,45.580932255738254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1033">
+            <name>Saguenay, Québec</name>
+            <Point id="1032">
+                <coordinates>-70.93304414258833,48.22525210677871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>Alma, Québec</name>
+            <Point id="1034">
+                <coordinates>-71.62973392036541,48.575585903348575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>Sainte-Catherine, Québec</name>
+            <Point id="1036">
+                <coordinates>-73.53897051602624,45.41815890670011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>Montréal, Québec</name>
+            <Point id="1038">
+                <coordinates>-73.61644341666202,45.50351249342177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>Lac-Brome, Québec</name>
+            <Point id="1040">
+                <coordinates>-72.55459476050895,45.293891541428096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>Québec, Canada</name>
+            <Point id="1042">
+                <coordinates>-71.21302452681996,46.76494338014641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>Alma, Québec</name>
+            <Point id="1044">
+                <coordinates>-71.55576078437016,48.56000978427854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>Austin, Québec</name>
+            <Point id="1046">
+                <coordinates>-72.22277331569575,45.24459573716105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>Montréal, Québec</name>
+            <Point id="1048">
+                <coordinates>-73.84226808353677,45.61101318399116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>Morin-Heights, Québec</name>
+            <Point id="1050">
+                <coordinates>-74.25104856833377,45.89436751829656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>Saint-Augustin-de-Desmaures, Québec</name>
+            <Point id="1052">
+                <coordinates>-71.49248901810878,46.798301784858246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>Montréal, Québec</name>
+            <Point id="1054">
+                <coordinates>-73.96141031262978,45.49719030312087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>Québec, Canada</name>
+            <Point id="1056">
+                <coordinates>-71.28727027771086,46.91972973341487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>Austin, Québec</name>
+            <Point id="1058">
+                <coordinates>-72.2860236084991,45.26092061780711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>Mille-Isles, Québec</name>
+            <Point id="1060">
+                <coordinates>-74.12077168458033,45.806770276395916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>Québec, Canada</name>
+            <Point id="1062">
+                <coordinates>-71.38967770982072,46.92101858183582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>Saguenay, Québec</name>
+            <Point id="1064">
+                <coordinates>-71.38807269740937,48.353896014032784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>Montréal, Québec</name>
+            <Point id="1066">
+                <coordinates>-73.7989841143992,45.5782811223895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>Montréal, Québec</name>
+            <Point id="1068">
+                <coordinates>-73.65406357490969,45.62839947771752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>Toronto, Ontario</name>
+            <Point id="1070">
+                <coordinates>-78.9682071082167,43.615006314073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1072">
+                <coordinates>-73.66662201714027,45.515073017153995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>Trois-Rivières, Québec</name>
+            <Point id="1074">
+                <coordinates>-72.61455846689442,46.4121532332079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1076">
+                <coordinates>-74.24731121111381,45.880022777985026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>Edmonton, Alberta</name>
+            <Point id="1078">
+                <coordinates>-113.46788535039558,53.627637468405325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>Québec, Canada</name>
+            <Point id="1080">
+                <coordinates>-71.46981816394236,46.8692241744593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>Saint-Célestin, Québec</name>
+            <Point id="1082">
+                <coordinates>-72.4817344482158,46.164871518051434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>Lac-Brome, Québec</name>
+            <Point id="1084">
+                <coordinates>-72.49991673525197,45.26240534130314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>Sainte-Pétronille, Québec</name>
+            <Point id="1086">
+                <coordinates>-71.12080025265892,46.86217583895171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1088">
+                <coordinates>-73.66010619738407,45.50108001567399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>Québec, Canada</name>
+            <Point id="1090">
+                <coordinates>-71.35027501792365,46.877623748863044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>Québec, Canada</name>
+            <Point id="1092">
+                <coordinates>-71.4142172242721,46.83597235882706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1094">
+                <coordinates>-73.68362500696665,45.494035292415504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>Sainte-Luce, Québec</name>
+            <Point id="1096">
+                <coordinates>-68.41568506487155,48.65456559269012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1098">
+                <coordinates>-73.6839295273341,45.493597230163665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>Méga-Plex Guzzo Terrebonne 14</name>
+            <Point id="1100">
+                <coordinates>-73.64896775039799,45.710115247691675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>Lévis, Québec</name>
+            <Point id="1102">
+                <coordinates>-71.18079190634809,46.63146099594743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>Québec, Canada</name>
+            <Point id="1104">
+                <coordinates>-71.29541677445258,46.857510507069996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="1106">
+                <coordinates>-97.26852977889983,49.84919167614413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>Lévis, Québec</name>
+            <Point id="1108">
+                <coordinates>-71.43989008584032,46.647591078908256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1110">
+                <coordinates>-73.64738591740226,45.49788768602362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>Gatineau, Québec</name>
+            <Point id="1112">
+                <coordinates>-75.59566288605801,45.59496321131673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1114">
+                <coordinates>-74.20426611293944,45.836436094096285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>Québec, Canada</name>
+            <Point id="1116">
+                <coordinates>-71.20033350964778,46.81519008168602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>La Prairie, Québec</name>
+            <Point id="1118">
+                <coordinates>-73.49575477586725,45.35335466647395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>Québec, Canada</name>
+            <Point id="1120">
+                <coordinates>-71.31531655164646,46.85056064146492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>Québec, Canada</name>
+            <Point id="1122">
+                <coordinates>-71.50284911006148,46.89182564370504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1125">
+            <name>Saint-Donat, Québec</name>
+            <Point id="1124">
+                <coordinates>-68.28101208051125,48.5483154967395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1127">
+            <name>Montréal, Québec</name>
+            <Point id="1126">
+                <coordinates>-73.7588830969603,45.43459647493439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1129">
+            <name>Austin, Québec</name>
+            <Point id="1128">
+                <coordinates>-72.30173863198516,45.24239472828976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1131">
+            <name>Montréal, Québec</name>
+            <Point id="1130">
+                <coordinates>-73.68897332614682,45.5286641554005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1133">
+            <name>Montréal, Québec</name>
+            <Point id="1132">
+                <coordinates>-73.53375102533565,45.44776861841498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1135">
+            <name>Saint-Jérôme, Québec</name>
+            <Point id="1134">
+                <coordinates>-74.02639437733652,45.82325339500992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1137">
+            <name>Montréal, Québec</name>
+            <Point id="1136">
+                <coordinates>-73.64512417244117,45.64750851187874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1139">
+            <name>Québec, Canada</name>
+            <Point id="1138">
+                <coordinates>-71.1803658226081,46.800367579627505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1141">
+            <name>East Angus, Québec</name>
+            <Point id="1140">
+                <coordinates>-71.64571207986934,45.476570247122076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1143">
+            <name>Austin, Québec</name>
+            <Point id="1142">
+                <coordinates>-72.24032955961111,45.207095030052564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1145">
+            <name>Québec, Canada</name>
+            <Point id="1144">
+                <coordinates>-71.48538586921067,46.80645915681278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1147">
+            <name>Montréal, Québec</name>
+            <Point id="1146">
+                <coordinates>-73.90529545368739,45.54415871278542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1149">
+            <name>Montréal, Québec</name>
+            <Point id="1148">
+                <coordinates>-73.83151578260828,45.63701529378025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1151">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1150">
+                <coordinates>-74.24837340164859,45.84162725878897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1153">
+            <name>Québec, Canada</name>
+            <Point id="1152">
+                <coordinates>-71.44470727418005,46.752032652733085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1155">
+            <name>Saguenay, Québec</name>
+            <Point id="1154">
+                <coordinates>-71.52842318276639,48.27796467519316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1157">
+            <name>L'Ancienne-Lorette, Québec</name>
+            <Point id="1156">
+                <coordinates>-71.34200861101915,46.81101268185542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1159">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1158">
+                <coordinates>-73.65616105744078,45.50817704831313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1161">
+            <name>Montréal, Québec</name>
+            <Point id="1160">
+                <coordinates>-73.61431842254747,45.60237954316984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <name>Montréal, Québec</name>
+            <Point id="1162">
+                <coordinates>-73.63339892328236,45.54121817442087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1165">
+            <name>Ottawa, Ontario</name>
+            <Point id="1164">
+                <coordinates>-75.81473342097804,45.42562213805368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1167">
+            <name>Austin, Québec</name>
+            <Point id="1166">
+                <coordinates>-72.29613619980226,45.190155312874495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1169">
+            <name>Lévis, Québec</name>
+            <Point id="1168">
+                <coordinates>-71.2928317504762,46.73737030814425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1171">
+            <name>Lévis, Québec</name>
+            <Point id="1170">
+                <coordinates>-71.14433644224619,46.747805459212756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1173">
+            <name>Québec, Canada</name>
+            <Point id="1172">
+                <coordinates>-71.30978662001573,46.80221608652853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1175">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1174">
+                <coordinates>-73.66191463318901,45.52270093691111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1177">
+            <name>Montréal, Québec</name>
+            <Point id="1176">
+                <coordinates>-73.5989284568618,45.45657217529395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1179">
+            <name>Shawinigan, Québec</name>
+            <Point id="1178">
+                <coordinates>-73.14015895370696,46.735577512376835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1181">
+            <name>Montréal, Québec</name>
+            <Point id="1180">
+                <coordinates>-73.91092019237054,45.5592454076012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1183">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1182">
+                <coordinates>-73.64375775036501,45.48752256063601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1185">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1184">
+                <coordinates>-74.1550822500715,45.88927975571813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1187">
+            <name>Austin, Québec</name>
+            <Point id="1186">
+                <coordinates>-72.22458109945487,45.252590525591984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1189">
+            <name>Toronto, Ontario</name>
+            <Point id="1188">
+                <coordinates>-78.9836283586104,43.59414801282193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1191">
+            <name>Calgary, Alberta</name>
+            <Point id="1190">
+                <coordinates>-114.06301275496668,51.10493384637807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1193">
+            <name>Boucherville, Québec</name>
+            <Point id="1192">
+                <coordinates>-73.46594275969296,45.63208876176001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1195">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1194">
+                <coordinates>-74.26071660829395,45.90417866478584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1197">
+            <name>Austin, Québec</name>
+            <Point id="1196">
+                <coordinates>-72.22213856250914,45.18589060598593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1199">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="1198">
+                <coordinates>-97.28502490125446,49.80561999353765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1201">
+            <name>Québec, Canada</name>
+            <Point id="1200">
+                <coordinates>-71.29893626853091,46.854200726939645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1203">
+            <name>Luc Doyle Lunetterie</name>
+            <Point id="1202">
+                <coordinates>-73.610513,45.740424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1204">
+                <coordinates>-73.68091157492997,45.492777791655335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>Québec, Canada</name>
+            <Point id="1206">
+                <coordinates>-71.47455195999035,46.84866152929775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>Montréal, Québec</name>
+            <Point id="1208">
+                <coordinates>-73.9660350436639,45.58890969149851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>Austin, Québec</name>
+            <Point id="1210">
+                <coordinates>-72.21990020905723,45.24528093493198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>Mont-Saint-Hilaire, Québec</name>
+            <Point id="1212">
+                <coordinates>-73.17149127181055,45.59653962761766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>Victoriaville, Québec</name>
+            <Point id="1214">
+                <coordinates>-71.96055969888542,46.04823697296761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>Québec, Canada</name>
+            <Point id="1216">
+                <coordinates>-71.19888336572551,46.73136527767297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>Repentigny, Québec</name>
+            <Point id="1218">
+                <coordinates>-73.49361683550158,45.76086623110517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>Laval, Québec</name>
+            <Point id="1220">
+                <coordinates>-73.55605087904802,45.62756558103803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1222">
+                <coordinates>-73.62437983952977,45.49634357452656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>Montréal, Québec</name>
+            <Point id="1224">
+                <coordinates>-73.5668470692464,45.43825442675871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>Austin, Québec</name>
+            <Point id="1226">
+                <coordinates>-72.21501773192173,45.24526792701312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>Montréal, Québec</name>
+            <Point id="1228">
+                <coordinates>-73.60760307769199,45.5945362113487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1230">
+                <coordinates>-73.63328860161086,45.521946703570734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1232">
+                <coordinates>-74.16436100700638,45.88201830067169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1234">
+                <coordinates>-74.13567087793955,45.83970949261095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>Brossard, Québec</name>
+            <Point id="1236">
+                <coordinates>-73.40015602406744,45.461077663360044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>Blainville, Québec</name>
+            <Point id="1238">
+                <coordinates>-73.92181741833008,45.702381017706706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>Austin, Québec</name>
+            <Point id="1240">
+                <coordinates>-72.25078279086587,45.28787463366526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>Ottawa, Ontario</name>
+            <Point id="1242">
+                <coordinates>-75.94514845783979,44.96409060447782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>Montréal, Québec</name>
+            <Point id="1244">
+                <coordinates>-73.9622091066066,45.545017390682396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>Montréal, Québec</name>
+            <Point id="1246">
+                <coordinates>-73.71409581091551,45.55990860192226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>Toronto, Ontario</name>
+            <Point id="1248">
+                <coordinates>-79.16853606445639,43.482426745503055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>Montréal, Québec</name>
+            <Point id="1250">
+                <coordinates>-73.81619766849757,45.586038589085874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1253">
+            <name>Dorval, Québec</name>
+            <Point id="1252">
+                <coordinates>-73.77582872777946,45.42583704139888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1255">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1254">
+                <coordinates>-73.62572029216896,45.491109247021214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1257">
+            <name>Saguenay, Québec</name>
+            <Point id="1256">
+                <coordinates>-70.99161391233562,48.389731034059416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1259">
+            <name>Québec, Canada</name>
+            <Point id="1258">
+                <coordinates>-71.34655774983585,46.921360044831175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1261">
+            <name>Sainte-Julienne, Québec</name>
+            <Point id="1260">
+                <coordinates>-73.6376858913287,45.98442932527474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1263">
+            <name>Austin, Québec</name>
+            <Point id="1262">
+                <coordinates>-72.22584886636768,45.19598935853102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1265">
+            <name>Varennes, Québec</name>
+            <Point id="1264">
+                <coordinates>-73.32699835012585,45.646318398836804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1267">
+            <name>Saint-Ulric, Québec</name>
+            <Point id="1266">
+                <coordinates>-67.6827573360664,48.68441831346514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1269">
+            <name>Montréal, Québec</name>
+            <Point id="1268">
+                <coordinates>-73.88616584979016,45.5133897069942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1271">
+            <name>Montréal, Québec</name>
+            <Point id="1270">
+                <coordinates>-73.77141076391977,45.581681837237454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1273">
+            <name>Winnipeg, Manitoba</name>
+            <Point id="1272">
+                <coordinates>-97.03453721361713,49.98799495162616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1275">
+            <name>Québec, Canada</name>
+            <Point id="1274">
+                <coordinates>-71.32984755554392,46.91219442582584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1277">
+            <name>Québec, Canada</name>
+            <Point id="1276">
+                <coordinates>-71.35730643495019,46.919042421465456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1279">
+            <name>Montréal, Québec</name>
+            <Point id="1278">
+                <coordinates>-73.63627176171491,45.63668160134306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1281">
+            <name>Lévis, Québec</name>
+            <Point id="1280">
+                <coordinates>-71.15354775935681,46.65465880407515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1283">
+            <name>Morin-Heights, Québec</name>
+            <Point id="1282">
+                <coordinates>-74.2688477883208,45.89330336324438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1285">
+            <name>Repentigny, Québec</name>
+            <Point id="1284">
+                <coordinates>-73.52278399012143,45.78645312893684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1287">
+            <name>Brossard, Québec</name>
+            <Point id="1286">
+                <coordinates>-73.52144007474226,45.46784740454814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1289">
+            <name>Repentigny, Québec</name>
+            <Point id="1288">
+                <coordinates>-73.42324992906566,45.73682354633491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1291">
+            <name>Québec, Canada</name>
+            <Point id="1290">
+                <coordinates>-71.22883694829541,46.75268328827375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1293">
+            <name>Terrebonne, Québec</name>
+            <Point id="1292">
+                <coordinates>-73.6864723230855,45.76992650434123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1295">
+            <name>Montréal, Québec</name>
+            <Point id="1294">
+                <coordinates>-73.67650127209527,45.68550348299716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1297">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1296">
+                <coordinates>-74.22105392760407,45.847468357746514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1299">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1298">
+                <coordinates>-73.62299478919797,45.504682886427716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1301">
+            <name>Saint-Félix-de-Valois, Québec</name>
+            <Point id="1300">
+                <coordinates>-73.42204453293537,46.179847846475795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1303">
+            <name>Montréal, Québec</name>
+            <Point id="1302">
+                <coordinates>-73.51573965918895,45.44295633356403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1305">
+            <name>Austin, Québec</name>
+            <Point id="1304">
+                <coordinates>-72.24921254719764,45.162875566045656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1307">
+            <name>Austin, Québec</name>
+            <Point id="1306">
+                <coordinates>-72.23049055450427,45.18646989486481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1309">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1308">
+                <coordinates>-73.65218130100409,45.527429062388386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1311">
+            <name>Sherbrooke, Québec</name>
+            <Point id="1310">
+                <coordinates>-71.8341309616946,45.30623664901475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1313">
+            <name>Val-Brillant, Québec</name>
+            <Point id="1312">
+                <coordinates>-67.58404656062962,48.50327611949602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1315">
+            <name>Varennes, Québec</name>
+            <Point id="1314">
+                <coordinates>-73.43257327050142,45.64101685863455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1317">
+            <name>Repentigny, Québec</name>
+            <Point id="1316">
+                <coordinates>-73.47353742499492,45.71414775365221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1319">
+            <name>Dorval, Québec</name>
+            <Point id="1318">
+                <coordinates>-73.77635264868344,45.46401179232836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1321">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1320">
+                <coordinates>-74.14033941040837,45.876864604386064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1323">
+            <name>Austin, Québec</name>
+            <Point id="1322">
+                <coordinates>-72.28640110628561,45.28446243087943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1325">
+            <name>Saint-Jean-Port-Joli, Québec</name>
+            <Point id="1324">
+                <coordinates>-70.21849768951601,47.1697527842576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1327">
+            <name>Terrebonne, Québec</name>
+            <Point id="1326">
+                <coordinates>-73.57234274017796,45.672491870250894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1329">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1328">
+                <coordinates>-74.14049594133779,45.87944745031861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1331">
+            <name>Montréal, Québec</name>
+            <Point id="1330">
+                <coordinates>-73.79013050070313,45.569317829252924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1333">
+            <name>Drummondville, Québec</name>
+            <Point id="1332">
+                <coordinates>-72.39879835189274,45.93570638905189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1335">
+            <name>Québec, Canada</name>
+            <Point id="1334">
+                <coordinates>-71.39793442600971,46.77645699016826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1337">
+            <name>Montréal, Québec</name>
+            <Point id="1336">
+                <coordinates>-73.50102801879295,45.43516300397933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1339">
+            <name>Saint-Hyacinthe, Québec</name>
+            <Point id="1338">
+                <coordinates>-72.89199816387381,45.597403910325816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1341">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1340">
+                <coordinates>-74.14138430708732,45.854317107523066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1343">
+            <name>Lévis, Québec</name>
+            <Point id="1342">
+                <coordinates>-71.32537734404004,46.65204356382806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1345">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1344">
+                <coordinates>-74.16504287127164,45.89366207508562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1347">
+            <name>Rosemère, Québec</name>
+            <Point id="1346">
+                <coordinates>-73.79010714334552,45.618190042693236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1349">
+            <name>Repentigny, Québec</name>
+            <Point id="1348">
+                <coordinates>-73.42909176736103,45.7397855578228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1351">
+            <name>Varennes, Québec</name>
+            <Point id="1350">
+                <coordinates>-73.44920225995867,45.65046078077775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1353">
+            <name>Beauce-Sartigan, Québec</name>
+            <Point id="1352">
+                <coordinates>-70.94909499646077,45.95038395474173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1355">
+            <name>East Angus, Québec</name>
+            <Point id="1354">
+                <coordinates>-71.64608608693945,45.47103234191211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1357">
+            <name>Québec, Canada</name>
+            <Point id="1356">
+                <coordinates>-71.31501866024689,46.83540772199152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1359">
+            <name>Montréal, Québec</name>
+            <Point id="1358">
+                <coordinates>-73.54097286993064,45.623676364339005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1361">
+            <name>Montréal, Québec</name>
+            <Point id="1360">
+                <coordinates>-73.52883559447122,45.52110497175562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1363">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1362">
+                <coordinates>-74.1465180661363,45.895321043818555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1365">
+            <name>Repentigny, Québec</name>
+            <Point id="1364">
+                <coordinates>-73.4671349129056,45.72876379245643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1367">
+            <name>Austin, Québec</name>
+            <Point id="1366">
+                <coordinates>-72.25076096714199,45.1986235888625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1369">
+            <name>Québec, Canada</name>
+            <Point id="1368">
+                <coordinates>-71.19443766440654,46.73856728160484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1371">
+            <name>Montréal, Québec</name>
+            <Point id="1370">
+                <coordinates>-73.7028856792842,45.45246018632405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1373">
+            <name>Québec, Canada</name>
+            <Point id="1372">
+                <coordinates>-71.27487473870713,46.75235639736829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1375">
+            <name>Montréal, Québec</name>
+            <Point id="1374">
+                <coordinates>-73.95531679991397,45.670046602349174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1377">
+            <name>Québec, Canada</name>
+            <Point id="1376">
+                <coordinates>-71.54097032437456,46.84010742808716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1379">
+            <name>Sainte-Anne-du-Sault, Québec</name>
+            <Point id="1378">
+                <coordinates>-72.15910305698743,46.16163754674115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1381">
+            <name>East Angus, Québec</name>
+            <Point id="1380">
+                <coordinates>-71.66195719562856,45.49265924794485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1383">
+            <name>Mont-Royal, Québec</name>
+            <Point id="1382">
+                <coordinates>-73.66048633302489,45.50432593840396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1385">
+            <name>Gatineau, Québec</name>
+            <Point id="1384">
+                <coordinates>-75.57991495911651,45.539982970676085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1387">
+            <name>Saint-Sauveur, Québec</name>
+            <Point id="1386">
+                <coordinates>-74.24823056562393,45.90818390018599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1389">
+            <name>Québec, Canada</name>
+            <Point id="1388">
+                <coordinates>-71.15536530301159,46.969045480621304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1391">
+            <name>Saguenay, Québec</name>
+            <Point id="1390">
+                <coordinates>-71.41476370685494,48.557706599724405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1393">
+            <name>Sorel-Tracy, Québec</name>
+            <Point id="1392">
+                <coordinates>-73.18096542379804,46.03514650959794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1395">
+            <name>Montréal, Québec</name>
+            <Point id="1394">
+                <coordinates>-73.4990202850627,45.62338493812629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1397">
+            <name>Austin, Québec</name>
+            <Point id="1396">
+                <coordinates>-72.21540499441676,45.19666244414508,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
